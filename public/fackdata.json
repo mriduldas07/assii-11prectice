@@ -6,7 +6,7 @@
         "price":"299",
         "img":"https://i.ibb.co/xmgqq6K/anh-nhat-YKFBd-V-RRXI-unsplash.jpg",
         "quantity":"10",
-        " supplier name":"Smart Elec."
+        "supplier":"Smart Elec."
     },
     {
         "id": 2,
@@ -15,7 +15,7 @@
         "price":"399",
         "img":"https://i.ibb.co/q0Y2Mvr/anh-nhat-Pd-ALQmf-Eqv-E-unsplash.jpg",
         "quantity":"13",
-        " supplier name":"Samsung Bangladesh"
+        "supplier":"Samsung Bangladesh"
     },
     {
         "id": 3,
@@ -24,7 +24,7 @@
         "price":"490",
         "img":"https://i.ibb.co/pyrsKCV/thai-nguyen-t-T6-Wk-ROz-Sw-unsplash.jpg",
         "quantity":"9",
-        " supplier name":"Samsung Bangladesh"
+        "supplier":"Samsung Bangladesh"
     },
     {
         "id": 4,
@@ -33,7 +33,7 @@
         "price":"1199",
         "img":"https://i.ibb.co/hHGN1f1/bagus-hernawan-A6-Jx-K37-Il-Po-unsplash.jpg",
         "quantity":"7",
-        " supplier name":"Apple store"
+        "supplier":"Apple store"
     },
     {
         "id": 5,
@@ -42,7 +42,7 @@
         "price":"999",
         "img":"https://i.ibb.co/fdrQ8wq/vojtech-bruzek-J82-Gxqnw-KSs-unsplash.jpg",
         "quantity":"11",
-        " supplier name":"Apple Store"
+        "supplier":"Apple Store"
     },
     {
         "id": 6,
@@ -51,6 +51,6 @@
         "price":"699",
         "img":"https://i.ibb.co/N6ZLCXx/amar-syazwan-rosman-s-Nd-BU8si-Kn0-unsplash.jpg",
         "quantity":"14",
-        " supplier name":"TachHope"
+        "supplier":"TachHope"
     }
 ]
